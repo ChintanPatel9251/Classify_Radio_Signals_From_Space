@@ -55,5 +55,33 @@ The hands-on project on Classifying Radio Signals from Space is divided into the
 
 ### Installation
 1. Clone the repository:
-''' git clone https://github.com/your-username/deep-space-radio-signals-classification.git '''
+```
+git clone https://github.com/your-username/deep-space-radio-signals-classification.git
+```
 
+2. Navigate to the project directory:
+```
+cd deep-space-radio-signals-classification
+```
+
+### Running the Project
+1. Open the Jupyter notebook:
+```
+jupyter notebook
+```
+2. Open Project_Notebook_Main.ipynb file
+3. Follow the instructions in the notebook to run the code cells and train the CNN model.
+
+
+## Results
+The project successfully builds and trains a CNN to classify deep space radio signals with a high level of accuracy. The model's performance and the classification results are visualized in the notebook.
+
+
+## Conclusion
+This project demonstrates the application of deep learning techniques to classify radio signals from space, showcasing the use of Keras and TensorFlow for image classification tasks. It provides a hands-on approach to understanding and implementing CNNs for practical data analysis problems.
+
+
+## Contact
+I'm always excited to connect with fellow data and machine learning enthusiasts, potential employers, and anyone interested in Data Science, Machine Learning and Artificial Intelligence. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chintan-patel2251/).
+
+Thank you for visiting my repository. I look forward to your feedback and the opportunity to contribute to impactful projects!
